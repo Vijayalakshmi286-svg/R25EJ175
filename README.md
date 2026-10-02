@@ -2,3 +2,7 @@ Hi, I am Vijayalakshmi, an engineering student studying CSIT. This repository is
 
 Learning Python
 Interested in cloud computing
+
+Goal: contribute to open source
+
+Goal: contribute to open source
