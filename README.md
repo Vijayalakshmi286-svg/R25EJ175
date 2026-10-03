@@ -6,3 +6,6 @@ Interested in cloud computing
 Goal: contribute to open source
 
 Goal: contribute to open source
+## Projects
+
+I plan to build a student portfolio website to showcase my programming projects and skills.
